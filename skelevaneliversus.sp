@@ -226,8 +226,8 @@ static const int Weapon_Attributes[NUM_OF_WEAPONS][WeaponAttributes_Size] = {
 	// Scout
 	{
 		WEAPON_SNIPER_SCOUT_ID,
-		WEAPON_NULL_INDEX,
-		WEAPON_HUNTING_RIFLE_INDEX
+		WEAPON_HUNTING_RIFLE_INDEX,
+		WEAPON_NULL_INDEX
 	},
 
 	//====================================================
