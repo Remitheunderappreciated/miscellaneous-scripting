@@ -185,7 +185,7 @@ static const int Weapon_Attributes[NUM_OF_WEAPONS][WeaponAttributes_Size] = {
 	{
 		WEAPON_GRENADE_LAUNCHER_ID,
 		WEAPON_NULL_INDEX,
-		WEAPON_REMOVE_INDEX
+		WEAPON_NULL_INDEX
 	},
 
 	// AK47
