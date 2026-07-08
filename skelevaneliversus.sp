@@ -128,8 +128,8 @@ static const int Weapon_Attributes[NUM_OF_WEAPONS][WeaponAttributes_Size] = {
 	// Autoshotgun
 	{
 		WEAPON_AUTOSHOTGUN_ID,
-		WEAPON_RIFLE_SG552_INDEX,
-		WEAPON_NULL_INDEX
+		WEAPON_NULL_INDEX,
+		WEAPON_RIFLE_SG552_INDEX
 	},
 
 	// Rifle
@@ -177,8 +177,8 @@ static const int Weapon_Attributes[NUM_OF_WEAPONS][WeaponAttributes_Size] = {
 	// Spas shotgun
 	{
 		WEAPON_SHOTGUN_SPAS_ID,
-		WEAPON_RIFLE_SG552_INDEX,
-		WEAPON_NULL_INDEX
+		WEAPON_NULL_INDEX,
+		WEAPON_RIFLE_SG552_INDEX
 	},
 
 	// Grenade launcher
@@ -212,22 +212,22 @@ static const int Weapon_Attributes[NUM_OF_WEAPONS][WeaponAttributes_Size] = {
 	// SG552
 	{
 		WEAPON_RIFLE_SG552_ID,
-		WEAPON_RIFLE_INDEX,
+		WEAPON_NULL_INDEX,
 		WEAPON_NULL_INDEX
 	},
 
 	// AWP
 	{
 		WEAPON_SNIPER_AWP_ID,
-		WEAPON_SNIPER_MILITARY_INDEX,
-		WEAPON_NULL_INDEX
+		WEAPON_NULL_INDEX,
+		WEAPON_SNIPER_MILITARY_INDEX
 	},
 
 	// Scout
 	{
 		WEAPON_SNIPER_SCOUT_ID,
-		WEAPON_HUNTING_RIFLE_INDEX,
-		WEAPON_NULL_INDEX
+		WEAPON_NULL_INDEX,
+		WEAPON_HUNTING_RIFLE_INDEX
 	},
 
 	//====================================================
